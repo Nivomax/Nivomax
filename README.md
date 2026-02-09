@@ -1,9 +1,9 @@
 <!-- GIF TOP -->
 <div align="center">
-  <img src="https://fr.photofunky.net/i/b066dc" width="520" alt="GIF PhotoFunky" />
+  <img src="https://videos.cults3d.com/DtCw5IesAWvnO2Xs4uhzfc_3AOI=/516x516/filters:no_upscale():format(mp4)/https://fbi.cults3d.com/uploaders/44299141/illustration-file/7b674cc2-ac2e-4224-bb3a-43aaec2eb5e5/c6e5e73142798e34c79140e58b8ba198.gif"
+       width="520"
+       alt="Ryuk GIF" />
 </div>
-
-
 <br/>
 
 <!-- LINKS -->
