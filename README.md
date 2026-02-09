@@ -1,6 +1,6 @@
 <!-- GIF TOP -->
 <div align="center">
-  <img src="https://www.photofunky.net/output/image/b/0/6/6/b066dc/photofunky.gif" width="520" alt="gif" />
+  <img src="https://i.pinimg.com/originals/76/01/bf/7601bfc383042a4789ac117bced530bc.gif" width="520" alt="gif" />
 </div>
 
 <br/>
@@ -8,7 +8,7 @@
 <!-- LINKS -->
 <div align="center">
   <p>
-    <a href="https://dev.to/maxime-madureira.fr"><img src="https://img.shields.io/badge/dev.to-111111?logo=devdotto&logoColor=white&style=for-the-badge" /></a>
+    <a href="https://maxime-madureira.fr"><img src="https://img.shields.io/badge/Portfolio-111111?logo=vercel&logoColor=white&style=for-the-badge" /></a>
     <a href="https://linkedin.com/in/maxime-madureira"><img src="https://img.shields.io/badge/LinkedIn-111111?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
     <img src="https://komarev.com/ghpvc/?username=nivomax&label=views&color=111111&style=for-the-badge" />
   </p>
@@ -24,6 +24,8 @@
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="44" height="44" /></a>
     <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="44" height="44" /></a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="44" height="44" /></a>
+    <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="44" height="44" /></a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="44" height="44" /></a>
   </p>
 
   <!-- LINE 2 — Backend / CMS / Data -->
@@ -33,19 +35,12 @@
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="44" height="44" /></a>
     <a href="https://gitlab.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="44" height="44" /></a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="44" height="44" /></a>
-  </p>
-
-  <!-- LINE 3 — Tools / Design / OS -->
-  <p>
-    <a href="https://trello.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="44" height="44" /></a>
+       <a href="https://trello.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="44" height="44" /></a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="44" height="44" /></a>
     <a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="44" height="44" /></a>
-    <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="44" height="44" /></a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="44" height="44" /></a>
   </p>
-
   <br/>
-
+<br>
   <p>
     <img height="165" src="https://streak-stats.demolab.com?user=nivomax&hide_border=true" />
   </p>
