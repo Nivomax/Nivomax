@@ -1,3 +1,10 @@
+<!-- GIF TOP -->
+<div align="center">
+  <img src="https://www.photofunky.net/output/image/b/0/6/6/b066dc/photofunky.gif" width="520" alt="gif" />
+</div>
+
+<br/>
+
 <!-- LINKS -->
 <div align="center">
   <p>
@@ -17,8 +24,6 @@
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="44" height="44" /></a>
     <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="44" height="44" /></a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="44" height="44" /></a>
-
-
   </p>
 
   <!-- LINE 2 — Backend / CMS / Data -->
@@ -28,8 +33,6 @@
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="44" height="44" /></a>
     <a href="https://gitlab.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="44" height="44" /></a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="44" height="44" /></a>
-
-
   </p>
 
   <!-- LINE 3 — Tools / Design / OS -->
