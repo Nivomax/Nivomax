@@ -1,41 +1,22 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=180&text=TON_PRENOM%20👋&fontAlign=50&fontAlignY=45&desc=Builder%20%7C%20Full-stack%20%7C%20Open-source&descAlign=50&descAlignY=70" />
+<h1 align="center">Hi 👋, I'm Maxime Madureira</h1>
+<h3 align="center">A passionate frontend developer from France</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nivomax&label=Profile%20views&color=0e75b6&style=flat" alt="nivomax" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nivomax" alt="nivomax" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/maxime-madureira.fr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="maxime-madureira.fr" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/maxime-madureira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maxime-madureira" height="30" width="40" /></a>
+<a href="https://instagram.com/nivomax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nivomax" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=650&lines=Je+build+des+produits+propres%2C+rapides+et+scalables.;Web%20%7C%20APIs%20%7C%20Cloud%20%7C%20DX%20%7C%20Perf.;Toujours+chaud+pour+un+projet+impact+🚀" />
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/TON_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
-  <a href="mailto:TON_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white"></a>
-  <a href="https://TON_SITE"><img src="https://img.shields.io/badge/Portfolio-111?logo=vercel&logoColor=white"></a>
-  <img src="https://komarev.com/ghpvc/?username=TON_USERNAME&label=views&color=blue" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nivomax&show_icons=true&locale=en&layout=compact" alt="nivomax" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nivomax&show_icons=true&locale=en" alt="nivomax" /></p>
 
-### ⚡ Focus
-- **Stack**: TypeScript · React/Next · Node · Python · Docker · SQL  
-- **Actuellement**: TON_FOCUS (ex: SaaS, IA appliquée, perf, devtools)
-- **Je kiffe**: clean arch · observabilité · CI/CD · automation
-
-### 🚀 Projets
-- **Projet 1** — 1 ligne impact · Tech: X/Y/Z · Repo: https://github.com/TON_USERNAME/REPO1  
-- **Projet 2** — 1 ligne impact · Tech: X/Y/Z · Repo: https://github.com/TON_USERNAME/REPO2  
-- **Projet 3** — 1 ligne impact · Tech: X/Y/Z · Repo: https://github.com/TON_USERNAME/REPO3  
-
----
-
-<p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&hide_border=true" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=TON_USERNAME&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TON_USERNAME/TON_USERNAME/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nivomax&" alt="nivomax" /></p>
