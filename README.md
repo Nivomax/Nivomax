@@ -4,9 +4,10 @@
        width="520"
        alt="GIF PhotoFunky" />
 </div>
+
 <br/>
 
-<!-- LINKS -->
+<!-- LINKS (INCHANGÉ) -->
 <div align="center">
   <p>
     <a href="https://maxime-madureira.fr"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge"style="border:1px solid #ffffff; border-radius:6px;" /></a>
@@ -15,8 +16,10 @@
   </p>
 </div>
 
-  <br/>
+<br/>
 
+<!-- TOOLBOX -->
+<div align="center">
   <h3>Toolbox</h3>
 
   <!-- LINE 1 — Frontend -->
@@ -41,8 +44,7 @@
     <a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="44" height="44" alt="Canva" /></a>
   </p>
 
-  <br/>
-  <br/>
+  <br/><br/>
 
   <p>
     <img height="165" src="https://streak-stats.demolab.com?user=nivomax&hide_border=true" alt="GitHub Streak" />
