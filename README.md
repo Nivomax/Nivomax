@@ -30,7 +30,7 @@
     <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="44" height="44" alt="PHP" /></a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="44" height="44" alt="HTML5" /></a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="44" height="44" alt="CSS3" /></a>
-    <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="44" height="44" alt="JavaScript" /></a>
+    <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://marcuscode.com/static_content/media/00/00/00/94/N1GneFw3_1000.png" width="44" height="44" alt="JavaScript" /></a>
   </p>
 
   <!-- LINE 2 — Backend / CMS / Data -->
