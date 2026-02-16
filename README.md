@@ -1,13 +1,9 @@
-<!-- GIF TOP -->
 <div align="center">
       <img src="https://www.photofunky.net/output/image/b/0/6/6/b066dc/photofunky.gif"
        width="520"
        alt="GIF PhotoFunky" />
 </div>
-
 <br/>
-
-<!-- LINKS -->
 <div align="center">
   <p>
     <a href="https://maxime-madureira.fr"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge"style="border:1px solid #ffffff; border-radius:6px;" /></a>
@@ -18,11 +14,8 @@
 
 <br/>
 
-<!-- TOOLBOX -->
 <div align="center">
   <h3>Toolbox</h3>
-
-  <!-- LINE 1 — Frontend -->
   <p>
     <a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="44" height="44" alt="WordPress" /></a>
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://connectif.ai/wp-content/uploads/2023/07/woocommerce.png" width="44" height="44" alt="Bash" /></a>
@@ -32,8 +25,6 @@
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="44" height="44" alt="CSS3" /></a>
     <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://marcuscode.com/static_content/media/00/00/00/94/N1GneFw3_1000.png" width="44" height="44" alt="JavaScript" /></a>
   </p>
-
-  <!-- LINE 2 — Backend / CMS / Data -->
   <p>
     <a href="https://gitlab.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="44" height="44" alt="GitLab" /></a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="44" height="44" alt="Figma" /></a>
