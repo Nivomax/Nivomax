@@ -1,10 +1,4 @@
 <div align="center">
-      <img src="https://www.photofunky.net/output/image/b/0/6/6/b066dc/photofunky.gif"
-       width="520"
-       alt="GIF PhotoFunky" />
-</div>
-<br/>
-<div align="center">
   <p>
     <a href="https://maxime-madureira.fr"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge"style="border:1px solid #ffffff; border-radius:6px;" /></a>
     <a href="LIEN_DE_TON_CV"><img src="https://img.shields.io/badge/CV-111111?style=for-the-badge" style="border:1px solid #ffffff; border-radius:6px;" /></a>
