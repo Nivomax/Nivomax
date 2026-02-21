@@ -21,7 +21,7 @@
 <img src="https://marcuscode.com/static_content/media/00/00/00/94/N1GneFw3_1000.png" height="50" alt="javascript logo" /><img width="12" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="50" alt="python logo" /><img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50" alt="mysql logo" /><img width="12" />
-<img src="https://cdn.simpleicons.org/phpmyadmin" height="50" alt="phpmyadmin logo" />
+<img src="https://www.phpmyadmin.net/static/images/logo.png" height="50" alt="phpmyadmin logo" />
 
 <br/> 
 
