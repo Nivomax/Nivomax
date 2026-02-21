@@ -25,7 +25,7 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="45" alt="linux logo" /><img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="45" alt="debian logo" /><img width="12" />
-<img src="https://cdn.simpleicons.org/vmware" height="60" alt="vmware logo" /><img width="12" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/1280px-Vmware_workstation_16_icon.svg.png" width="45" height="45" alt="vmware logo" /><img width="12" />
 <img src="https://cdn.simpleicons.org/cisco" height="60" alt="cisco logo" /><img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo" /><img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="45" alt="gitlab logo" /><img width="12" />
