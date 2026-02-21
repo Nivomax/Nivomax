@@ -1,8 +1,8 @@
 <div align="center">
   <p>
-    <a href="https://maxime-madureira.fr"><img src="https://img.shields.io/badge/Portfolio-F97316?style=for-the-badge" style="border:1px solid #ffffff; border-radius:6px;" /></a>
-    <a href="LIEN_DE_TON_CV"><img src="https://img.shields.io/badge/CV-F97316?style=for-the-badge" style="border:1px solid #ffffff; border-radius:6px;" /></a>
-    <a href="https://linkedin.com/in/maxime-madureira"><img src="https://img.shields.io/badge/LinkedIn-F97316?logo=linkedin&logoColor=white&style=for-the-badge" style="border:1px solid #ffffff; border-radius:6px;" /></a>
+    <a href="https://maxime-madureira.fr"><img src="https://img.shields.io/badge/Portfolio-F97316?style=for-the-badge" height="65" /></a>
+    <a href="LIEN_DE_TON_CV"><img src="https://img.shields.io/badge/CV-F97316?style=for-the-badge" height="65" /></a>
+    <a href="https://linkedin.com/in/maxime-madureira"><img src="https://img.shields.io/badge/LinkedIn-F97316?logo=linkedin&logoColor=white&style=for-the-badge" height="65" /></a>
   </p>
 </div>
 
