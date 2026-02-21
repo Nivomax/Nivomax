@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
-  <h3>Stack</h3>
+  <h3>Toolbox</h3>
 <div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="45" alt="wordpress logo" /><img width="12" />
