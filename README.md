@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
-  <h3>Toolbox</h3>
+  <h3>Stack</h3>
   <p>
     <a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="44" height="44" alt="WordPress" /></a>
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://connectif.ai/wp-content/uploads/2023/07/woocommerce.png" width="44" height="44" alt="Bash" /></a>
