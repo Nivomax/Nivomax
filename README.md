@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <p>
     <a href="https://maxime-madureira.fr"><img src="https://img.shields.io/badge/Portfolio-F97316?style=for-the-badge" height="65" /></a>
     <a href="LIEN_DE_TON_CV"><img src="https://img.shields.io/badge/CV-F97316?style=for-the-badge" height="65" /></a>
@@ -8,9 +8,9 @@
 
 <br/>
 
-<div align="center">
+<div>
   <h3>Toolbox</h3>
-<div align="center">
+<div>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="45" alt="wordpress logo" /><img width="12" />
 <img src="https://connectif.ai/wp-content/uploads/2023/07/woocommerce.png" height="45" alt="woocommerce logo" /><img width="12" />
