@@ -6,11 +6,10 @@
 <br>Actuellement en apprentisage de **Three.js** et **GSAP**.
 <br>Je réalise des sites vitrines et e-commerces à partir de 200€.
 <br>Je donne également des cours de développement pour apprendre à utiliser WordPress.
-Mail: maxime.madureira@gmail.com • Linkedin • Portfolio • Mon CV <a href="https://drive.google.com/file/d/1mEh-_KRQO_BCXrbF2frWMYbGaet_aXV1/view?usp=drive_link">Mon CV</a>
-- Linkedin: https://www.linkedin.com/in/maxime-madureira/
-- Portfolio: https://maxime-madureira.fr
-- CV: https://drive.google.com/file/d/1mEh-_KRQO_BCXrbF2frWMYbGaet_aXV1/view?usp=drive_link
 <br><br>
+<a href="https://www.linkedin.com/in/maxime-madureira/">Linkedin</a> • <a href="https://maxime-madureira.fr">Portfolio</a> • <a href="https://drive.google.com/file/d/1mEh-_KRQO_BCXrbF2frWMYbGaet_aXV1/view?usp=drive_link">Mon CV</a> • maxime.madureira@gmail.com 
+
+<br>
 
 ## Mes projets récents :
 
@@ -30,18 +29,12 @@ Mail: maxime.madureira@gmail.com • Linkedin • Portfolio • Mon CV <a href="
 <a href="#"><img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"></a>
 <br><br>
 
-**Sea Learning** - Plateforme e-learning avec système d'authentification et suivi de progression.
-<br>https://finalmb.great-site.net/
-<br>
-<a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
-<a href="#"><img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"></a>
-<br><br>
-
 **Allan Derras** - Portfolio pour le réalisateur et photographe Allan Derras.
 <br>https://www.allanderras.com/
 <br>
 <a href="#"><img alt="Squarespace" src="https://img.shields.io/badge/Squarespace-000000?style=for-the-badge&logo=squarespace&logoColor=white"></a>
 
+<br>
 
 ## Stack technique
 
@@ -61,11 +54,6 @@ Mail: maxime.madureira@gmail.com • Linkedin • Portfolio • Mon CV <a href="
 <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"></a>
 <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"></a>
 
-
-
-  <img height=150 src="https://github-readme-stats.benzoogataga.com/api/top-langs/?username=nivomax&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nivomax&theme=react-dark&bg_color=20232a&hide_border=true" width=688><br>
   
 Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </div>
