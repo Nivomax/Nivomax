@@ -6,6 +6,9 @@
 <br>Actuellement en apprentisage de **Three.js** et **GSAP**.
 <br>Je réalise des sites vitrines et e-commerces à partir de 200€.
 <br>Je donne également des cours de développement pour apprendre à utiliser WordPress.
+- Mail: maxime.madureira@gmail.com
+- Linkedin: https://www.linkedin.com/in/maxime-madureira/
+- Portfolio: https://maxime-madureira.fr
 <br><br>
 
 ## Mes projets récents :
@@ -58,10 +61,6 @@
 <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"></a>
 
 
-## N'hésite pas à me contacter :
-- Mail : maxime.madureira@gmail.com
-- Linkedin : 
-- Portfolio :
 
   <img height=150 src="https://github-readme-stats.benzoogataga.com/api/top-langs/?username=nivomax&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"><br>
 
