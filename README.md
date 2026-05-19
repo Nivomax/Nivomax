@@ -19,7 +19,7 @@
 <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
 <br><br>
 
-**JH Drivers** - Site vitrine pour une entreprise de chauffeurs privée.
+**JH Drivers** - Site vitrine consommant des API Google map, pour une entreprise de chauffeurs privée.
 <br>https://jhdrivers.com
 <br>
 <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
