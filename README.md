@@ -6,9 +6,10 @@
 <br>Actuellement en apprentisage de **Three.js** et **GSAP**.
 <br>Je réalise des sites vitrines et e-commerces à partir de 200€.
 <br>Je donne également des cours de développement pour apprendre à utiliser WordPress.
-- Mail: maxime.madureira@gmail.com
+Mail: maxime.madureira@gmail.com • Linkedin • Portfolio • Mon CV <a href="https://drive.google.com/file/d/1mEh-_KRQO_BCXrbF2frWMYbGaet_aXV1/view?usp=drive_link">Mon CV</a>
 - Linkedin: https://www.linkedin.com/in/maxime-madureira/
 - Portfolio: https://maxime-madureira.fr
+- CV: https://drive.google.com/file/d/1mEh-_KRQO_BCXrbF2frWMYbGaet_aXV1/view?usp=drive_link
 <br><br>
 
 ## Mes projets récents :
@@ -64,23 +65,7 @@
 
   <img height=150 src="https://github-readme-stats.benzoogataga.com/api/top-langs/?username=nivomax&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"><br>
 
-
-    <img height="165" src="https://streak-stats.demolab.com?user=nivomax&hide_border=true" alt="GitHub Streak" />
-
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nivomax&theme=react-dark&bg_color=20232a&hide_border=true" width=688><br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nivomax&theme=react-dark&bg_color=20232a&hide_border=true" width=688><br>
   
 Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-
-
-
-
-
-  <p>
-    <a href="https://maxime-madureira.fr"><img src="https://img.shields.io/badge/Portfolio-F97316?style=for-the-badge" height="65" /></a>
-    <a href="LIEN_DE_TON_CV"><img src="https://img.shields.io/badge/CV-F97316?style=for-the-badge" height="65" /></a>
-    <a href="https://linkedin.com/in/maxime-madureira"><img src="https://img.shields.io/badge/LinkedIn-F97316?logo=linkedin&logoColor=white&style=for-the-badge" height="65" /></a>
-  </p>
 </div>
