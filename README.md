@@ -57,7 +57,8 @@
 <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"></a>
 <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"></a>
 
+<br>
 
 <div>
-    <img src = "https://github-readme-streak-stats.herokuapp.com?user=nivomax&theme=dark&hide_border=true"  width = 1000>
+    <img src = "https://github-readme-streak-stats.herokuapp.com?user=nivomax&theme=dark&hide_border=true"  width = 2000>
 
