@@ -13,8 +13,8 @@
 <br><br>
 <a href="https://www.linkedin.com/in/maxime-madureira/">Linkedin</a> • <a href="https://maxime-madureira.fr">Portfolio</a> • <a href="https://drive.google.com/file/d/1mEh-_KRQO_BCXrbF2frWMYbGaet_aXV1/view?usp=drive_link">Mon CV</a> • maxime.madureira@gmail.com 
 
+<br>
 
-#
 ## Mes projets récents :
 
 **<a href="https://www.linkedin.com/in/maxime-madureira/">EFREI POKER</a>**
@@ -37,7 +37,8 @@
 <br>
 <a href="#"><img alt="Squarespace" src="https://img.shields.io/badge/Squarespace-000000?style=for-the-badge&logo=squarespace&logoColor=white"></a>
 
-#
+<br>
+
 ## Stack technique
 
 <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
@@ -58,8 +59,5 @@
 
 
 <div>
-    <img src = "https://github-readme-streak-stats.herokuapp.com?user=nivomax&theme=dark&hide_border=true"  width = 400>
-    
-  </div>
-Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</div>
+    <img src = "https://github-readme-streak-stats.herokuapp.com?user=nivomax&theme=dark&hide_border=true"  width = 1000>
+
