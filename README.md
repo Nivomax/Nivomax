@@ -7,7 +7,6 @@
 
 
 **Développeur freelance** 
-<br>Jeune développeur à la recherche de nouvelles aventures.
 <br>Actuellement en apprentisage de **Three.js** et **GSAP**.
 <br>Je réalise des sites vitrines et e-commerces à partir de 200€.
 <br>Je donne également des cours de développement pour apprendre à utiliser WordPress.
@@ -57,6 +56,10 @@
 <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"></a>
 <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"></a>
 
-  
+
+<div>
+    <img src = "https://github-readme-streak-stats.herokuapp.com?user=nivomax&theme=dark&hide_border=true"  width = 400>
+    
+  </div>
 Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </div>
