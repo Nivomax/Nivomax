@@ -14,10 +14,9 @@
 <br><br>
 <a href="https://www.linkedin.com/in/maxime-madureira/">Linkedin</a> • <a href="https://maxime-madureira.fr">Portfolio</a> • <a href="https://drive.google.com/file/d/1mEh-_KRQO_BCXrbF2frWMYbGaet_aXV1/view?usp=drive_link">Mon CV</a> • maxime.madureira@gmail.com 
 
-<br>
 
+#
 ## Mes projets récents :
-
 
 **<a href="https://www.linkedin.com/in/maxime-madureira/">EFREI POKER</a>**
 <br>Site vitrine et application pour l'association de poker de l'EFREI.
@@ -39,8 +38,7 @@
 <br>
 <a href="#"><img alt="Squarespace" src="https://img.shields.io/badge/Squarespace-000000?style=for-the-badge&logo=squarespace&logoColor=white"></a>
 
-<br>
-
+#
 ## Stack technique
 
 <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
