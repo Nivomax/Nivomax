@@ -1,5 +1,10 @@
+<div align="right">
+<img src="https://komarev.com/ghpvc/?username=nivomax&label=Views&color=61dafb&style=flat-square">
+</div>
+
 <div>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&pause=5000&lines=Hello,+moi+c+'est+Maxime+!" alt="Typing SVG" /></a>
+
 
 **Développeur freelance** 
 <br>Jeune développeur à la recherche de nouvelles aventures.
@@ -14,23 +19,23 @@
 ## Mes projets récents :
 
 
-**EFREI POKER** - Site vitrine pour l'association de poker de l'EFREI.
-<br>https://efreipoker.com
+**<a href="https://www.linkedin.com/in/maxime-madureira/">EFREI POKER</a>**
+<br>Site vitrine pour l'association de poker de l'EFREI.
 <br>
 <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
 <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
 <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
-<br><br>
+<br>
 
-**JH Drivers** - Site vitrine consommant des API Google map, pour une entreprise de chauffeurs privée.
-<br>https://jhdrivers.com
+**<a href="https://jhdrivers.com">JH DRIVERS</a>**
+<br>Site vitrine consommant des API Google map, pour une entreprise de chauffeurs privée.
 <br>
 <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
 <a href="#"><img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"></a>
-<br><br>
+<br>
 
-**Allan Derras** - Portfolio pour le réalisateur et photographe Allan Derras.
-<br>https://www.allanderras.com/
+**<a href="https://www.allanderras.com/">ALLAN DERRAS</a>**
+<br>Portfolio pour le réalisateur et photographe Allan Derras.
 <br>
 <a href="#"><img alt="Squarespace" src="https://img.shields.io/badge/Squarespace-000000?style=for-the-badge&logo=squarespace&logoColor=white"></a>
 
