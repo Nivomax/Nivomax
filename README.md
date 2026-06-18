@@ -11,7 +11,7 @@
 <br>Je réalise des sites vitrines et e-commerces à partir de 200€.
 <br>Je donne également des cours de développement pour apprendre à utiliser WordPress.
 <br><br>
-<a href="https://www.linkedin.com/in/maxime-madureira/">Linkedin</a> • <a href="https://maxime-madureira.fr">Portfolio</a> • <a href="https://drive.google.com/file/d/1mEh-_KRQO_BCXrbF2frWMYbGaet_aXV1/view?usp=drive_link">Mon CV</a> • maxime.madureira@gmail.com 
+<a href="https://www.linkedin.com/in/maxime-madureira/">Linkedin</a> • <a href="[https://maxime-madureira.fr](https://maximemadureira.alwaysdata.net/)">Portfolio</a> • <a href="[https://drive.google.com/file/d/1mEh-_KRQO_BCXrbF2frWMYbGaet_aXV1/view?usp=drive_link](https://drive.google.com/file/d/1yLoCB-g0kZJyhLVJlruTL-2fUswnkLyr/view?usp=sharing)">Mon CV</a> • maxime.madureira@gmail.com 
 
 <br>
 
