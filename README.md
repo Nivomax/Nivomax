@@ -30,7 +30,5 @@
 <a href="#"><img alt="PrestaShop" src="https://img.shields.io/badge/PrestaShop-DF0067?style=for-the-badge&logo=prestashop&logoColor=white"></a>
 <a href="#"><img alt="WooCommerce" src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge"></a>
 <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
-<a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"></a>
-
 <br>
 
