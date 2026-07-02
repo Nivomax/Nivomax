@@ -10,6 +10,7 @@
 <li>Coding since 2023
 <li>Freelance developer and designer
 <li>I build business websites and e-commerce stores starting from 200€
+<li>See All my projects : <a href="https://maximemadureira.alwaysdata.net/">My Website</a>
 <li> Let's chat ! Find me here <a href="https://linktr.ee/maxime.madureira">Linktr.ee</a>
 <br>
 
