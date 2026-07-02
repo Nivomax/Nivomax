@@ -8,6 +8,7 @@
 **Network Engineer Student & Freelance Developer** 
 <br>Currently learning Three.js and GSAP.
 <br>I build business websites and e-commerce stores starting from 200€.
+<br> Based in Paris
 <br><br>
 <a href="https://maximemadureira.alwaysdata.net/">Portfolio</a> • <a href="https://www.linkedin.com/in/maxime-madureira/">Linkedin</a> • <a href="https://drive.google.com/file/d/1KuXAhadzB7iMrU1PyDbHZDJYbyUQEyBg/view?usp=sharing">Resume</a> • maxime.madureira@gmail.com 
 
