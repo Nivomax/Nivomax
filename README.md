@@ -18,8 +18,7 @@
 <a href="https://drive.google.com/file/d/1KuXAhadzB7iMrU1PyDbHZDJYbyUQEyBg/view?usp=sharing">Resume</a> • 
 <a href="mailto:maxime.madureira@gmail.com">maxime.madureira@gmail.com </a>
 
-<br>
-
+<br><br>
 
 ### Tech stack 
 
