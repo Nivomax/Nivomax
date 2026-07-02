@@ -11,14 +11,9 @@
 <li>Coding since 2023
 <li>Freelance developer and designer
 <li>I build business websites and e-commerce stores starting from 200€
-<br><br>
-<a href="https://linktr.ee/maxime.madureira">Linktr.ee</a> •
-<a href="https://maximemadureira.alwaysdata.net/">Website</a> •
-<a href="https://www.linkedin.com/in/maxime-madureira/">Linkedin</a> • 
-<a href="https://drive.google.com/file/d/1KuXAhadzB7iMrU1PyDbHZDJYbyUQEyBg/view?usp=sharing">Resume</a> • 
-<a href="mailto:maxime.madureira@gmail.com">maxime.madureira@gmail.com </a>
-
+<li> Let's chat ! Find me here <a href="https://linktr.ee/maxime.madureira">Linktr.ee</a>
 <br>
+
 
 ### Tech stack 
 
