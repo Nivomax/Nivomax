@@ -6,8 +6,8 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&pause=5000&lines=Hello,+i'am+Maxime+!" alt="Typing SVG" /></a>
 
 ### CURENTLY : Network Engineer Student at EFREI
-<br> ✨Based in Paris✨
-<br>
+<br> 
+<li>Based in Paris
 <li>Coding since 2023
 <li>Freelance developer and designer
 <li>I build business websites and e-commerce stores starting from 200€
@@ -18,7 +18,7 @@
 <a href="https://drive.google.com/file/d/1KuXAhadzB7iMrU1PyDbHZDJYbyUQEyBg/view?usp=sharing">Resume</a> • 
 <a href="mailto:maxime.madureira@gmail.com">maxime.madureira@gmail.com </a>
 
-<br><br>
+<br>
 
 ### Tech stack 
 
