@@ -3,20 +3,18 @@
 </div>
 
 <div>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&pause=5000&lines=Hello,+moi+c+'est+Maxime+!" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&pause=5000&lines=Hello,+i'am+Maxime+!" alt="Typing SVG" /></a>
 
-
-**Développeur freelance** 
-<br>Actuellement en apprentisage de **Three.js** et **GSAP**.
-<br>Je réalise des sites vitrines et e-commerces à partir de 200€.
-<br>Je donne également des cours de développement pour apprendre à utiliser WordPress.
+**Network Engineer Student & Freelance Developer** 
+<br>Currently learning Three.js and GSAP.
+<br>I build business websites and e-commerce stores starting from 200€.
 <br><br>
-<a href="https://maximemadureira.alwaysdata.net/">Portfolio</a> • <a href="https://www.linkedin.com/in/maxime-madureira/">Linkedin</a> • <a href="https://drive.google.com/file/d/1KuXAhadzB7iMrU1PyDbHZDJYbyUQEyBg/view?usp=sharing">Mon CV</a> • maxime.madureira@gmail.com 
+<a href="https://maximemadureira.alwaysdata.net/">Portfolio</a> • <a href="https://www.linkedin.com/in/maxime-madureira/">Linkedin</a> • <a href="https://drive.google.com/file/d/1KuXAhadzB7iMrU1PyDbHZDJYbyUQEyBg/view?usp=sharing">Resume</a> • maxime.madureira@gmail.com 
 
 <br>
 
 
-## Stack technique
+## Tech stack 
 
 <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
 <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
