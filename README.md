@@ -5,7 +5,7 @@
 <div>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&pause=5000&lines=Hello,+i'am+Maxime+!" alt="Typing SVG" /></a>
 
-### CURENTLY : Engineer Student at EFREI
+### CURENTLY : Engineering student at EFREI Paris
 <li>Based in Paris
 <li>Coding since 2023
 <li>Freelance developer and designer
